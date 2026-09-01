@@ -20,9 +20,8 @@
 
 I'm a passionate **Frontend Developer from India** who enjoys building useful products, experimenting with AI, and turning ideas into real-world applications.
 
-* 🔭 Currently building **[RailGadi / RailPulse](https://github.com/Raj-Rout/RailGadi-railpulse-)**
+* 🔭 Currently building **[RailGadi / RailPulse]**
 * 🌱 Currently learning **Content Creation & AI-powered workflows**
-* 🤝 Open to collaborating on **RailGadi / RailPulse**
 * 💬 Ask me about **AI, AI Tools, Frontend Development & Building Projects**
 * 📫 Reach me at **[Rajrout.1821@gmail.com](mailto:Rajrout.1821@gmail.com)**
 * ⚡ Fun fact: **I'm a Content Creator who loves building with technology**
